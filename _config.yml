@@ -17,7 +17,7 @@ title: AYO SKIP
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-  AYO SKIP Lets get This Thing Up and running...
+  This is my introductory portfolio into the World of Web Development
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
