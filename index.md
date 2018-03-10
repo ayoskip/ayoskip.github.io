@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # [](#header-1)I LOVE PIZZA & CODE
 
-I started coding in the fall of 2017 when a friend told me about a local non-profit hosting a Hackathon. Upon completion future coders were hand selected and invited to attend a 14 week intensive full stack software engineer bootcamp. Before coding I was pizza nerd managing and opening restaurants in the Boston area. PIZZA & CODE is #LIFE
+I started coding in the fall of 2017 when a friend told me about a local non-profit hosting a Hackathon. Upon completion future coders were hand selected and invited to attend a 14 week intensive full stack software engineering bootcamp. Before coding I managed various pizzerias in the the Boston vicinity. PIZZA & CODE is #LIFE
 
 <!-- ## [](#header-2)Header 2
 
@@ -95,9 +95,9 @@ end
   - level 2 item
 - level 1 item -->
 
-### Small image
+### I AM SKIP
 
-![](https://codepen.io/Ayo_Skip)
+![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506)
 
 <!-- ### Large image
 
