@@ -7,7 +7,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
 
-[Link to another page](another-page).
+[Link to another page](https://www.linkedin.com/in/sms30/).
 
 <!-- There should be whitespace between paragraphs.
 
