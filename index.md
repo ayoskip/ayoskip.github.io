@@ -7,7 +7,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
 
-[Link to another page](https://ayoskip.github.io/Rocks.Papers.Scissors/).
+
 
 <!-- There should be whitespace between paragraphs.
 
@@ -102,6 +102,7 @@ end
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506)
 
 ### Rock Paper Scissors Web App
+[Link](https://ayoskip.github.io/Rocks.Papers.Scissors/)
 
 ![](https://web-capture.net/picture.php?pic_index=1&presentation_method=inline)
 
