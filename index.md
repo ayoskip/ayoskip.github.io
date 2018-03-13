@@ -101,9 +101,9 @@ end
 
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506)
 
-<!-- ### Large image
+### Rock Paper Scissors Web App
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](https://web-capture.net/picture.php?pic_index=1&presentation_method=inline)
 
 
 ### Definition lists can be used with HTML syntax.
@@ -125,4 +125,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-``` -->
+```
