@@ -106,7 +106,7 @@ end
 ![](https://web-capture.net/picture.php?pic_index=1&presentation_method=inline)
 
 
-### Definition lists can be used with HTML syntax.
+<!-- ### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
@@ -125,4 +125,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
