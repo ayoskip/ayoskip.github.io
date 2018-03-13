@@ -7,7 +7,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
 
-[Link to another page](https://www.linkedin.com/in/sms30/).
+[Link to another page](https://ayoskip.github.io/Rocks.Papers.Scissors/).
 
 <!-- There should be whitespace between paragraphs.
 
@@ -16,6 +16,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # [](#header-1)I LOVE PIZZA & CODE
 
 I started coding in the fall of 2017 when a friend told me about a local non-profit hosting a Hackathon. Upon completion future coders were hand selected and invited to attend a 14 week intensive full stack software engineering bootcamp. Before coding I managed various pizzerias in the the Boston vicinity. PIZZA & CODE is #LIFE
+
+ * * *
 
 <!-- ## [](#header-2)Header 2
 
