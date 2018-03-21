@@ -13,9 +13,9 @@ layout: default
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# [](#header-1)I LOVE PIZZA & CODE
+<h1>I LOVE PIZZA & CODE</h1>
 
-Autodidact resilient coder with a huge passion for pizza and {code}. My journey to becoming a developer started late in 2017 when I got a tip about a Hackathon being hosted by a local non-profit that taught underprivileged minority young adults how to code. After completion of the 8 hour hackathon future coders were hand selected for their grit and teamworking skills to  participate in a 14 week intensive full stack coding bootcamp. Resilient Coders introduced me to the world of coding but I didn’t actually begin learning how to code until after bootcamp ended. 
+Autodidact resilient coder with a huge passion for pizza and {code}. My journey to becoming a developer started late in 2017 when I got a tip about a Hackathon being hosted by a local non-profit that taught underprivileged minority young adults how to code. After completion of the 8 hour Hackathon future coders were hand selected for their grit and skills to collaborate with others to  participate in a 14 week intensive full stack coding bootcamp. Resilient Coders introduced me to the world of coding but I didn’t actually begin learning how to code until after bootcamp ended.
 
  * * *
 
@@ -97,7 +97,7 @@ end
   - level 2 item
 - level 1 item -->
 
-### I AM SKIP
+<h1>I AM SKIP</h1>
 
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506)
 
