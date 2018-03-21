@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # [](#header-1)I LOVE PIZZA & CODE
 
-I started coding in the fall of 2017 when a friend told me about a local non-profit hosting a Hackathon. Upon completion future coders were hand selected and invited to attend a 14 week intensive full stack software engineering bootcamp. Before coding I managed various pizzerias in the the Boston vicinity. PIZZA & CODE is #LIFE
+Autodidact resilient coder with a huge passion for pizza and {code}. My journey to becoming a developer started late in 2017 when I got a tip about a Hackathon being hosted by a local non-profit that taught underprivileged minority young adults how to code. After completion of the 8 hour hackathon future coders were hand selected for their grit and teamworking skills to  participate in a 14 week intensive full stack coding bootcamp. Resilient Coders introduced me to the world of coding but I didn’t actually begin learning how to code until after bootcamp ended. 
 
  * * *
 
