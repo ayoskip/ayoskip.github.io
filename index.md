@@ -41,7 +41,7 @@ layout: default
         </ul>
       </div>
 
-        <img src="http://placeimg.com/400/400/tech" alt="Picture of Technology">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg" alt="Picture of Technology">
     <div class="card">
         <h2 class="card-title">Goals</h2>
         <p> I want to master the process of building web sites and increase my knowledge, skills and abilities in:</p>
