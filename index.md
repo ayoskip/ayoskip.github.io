@@ -5,125 +5,66 @@
 layout: default
 ---
 
-<!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`. -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Ayo Skip's Profile</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet">
+</head>
+  <header>
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506" alt="skiponamoon" class="profile-image">
+    <p class="tag location">My home is Columbia, Maryland.</p>
+    <div class="main-nav">
+        <ul class="nav">
+          <li class="name">AYO Skip</li>
+          <li><a href="#">Home</a></li>
+          <li><a href="resume.html" target="_blank">Experience</a></li>
+          <li><a href="#">Photos</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+  </header>
 
 
+  <body>
+    <main class="flex">
+      <div class="card">
+        <h2 class="card-title">Background</h2>
+        <p></p>
+        <ul>
+          <li>I’m an aspiring web designer who loves everything about the web. I've lived in lots of different places and have worked in lots of different jobs.</li>
+            <li>I’m excited to bring my life experience to the process of building fantastic looking websites.</li>
+            <li>I’ve been a professional pizzaiolo and small business owner and am a life-long learner who's always interested in expanding my skills.</li>
+          <!-- <li>To learn more,<a href="resume.html">view my resume.</a></li> -->
+        </ul>
+      </div>
 
-<!-- There should be whitespace between paragraphs.
+        <img src="http://placeimg.com/400/400/tech" alt="Picture of Technology">
+    <div class="card">
+        <h2 class="card-title">Goals</h2>
+        <p> I want to master the process of building web sites and increase my knowledge, skills and abilities in:</p>
+        <ul class="skills">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Mobile Development</li>
+          <li>Full Stack Apps</li>
+        </ul>
+        <p>I’d like to work for a web design firm helping clients create an impressive online presence.</p>
+      </div>
+      <img src="rockpaper.png">
+      <a href="https://ayoskip.github.io/Rocks.Papers.Scissors/">Link to Rock Paper Scissors</a>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-
-<h1>I LOVE PIZZA & CODE</h1>
-
-Autodidact resilient coder with a huge passion for pizza and {code}. My journey to becoming a developer started late in 2017 when I got a tip about a Hackathon being hosted by a local non-profit that taught underprivileged minority young adults how to code. After completion of the 8 hour Hackathon future coders were hand selected for their grit and skills to collaborate with others to  participate in a 14 week intensive full stack coding bootcamp. Resilient Coders introduced me to the world of coding but I didn’t actually begin learning how to code until after bootcamp ended.
-
- * * *
-
-<!-- ## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item -->
-
-<h1>I AM SKIP</h1>
-
-![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506)
-
-### Rock Paper Scissors Web App
-[Link](https://ayoskip.github.io/Rocks.Papers.Scissors/)
-
-![](https://web-capture.net/picture.php?pic_index=1&presentation_method=inline)
-
-
-<!-- ### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-``` -->
+    </main>
+    <footer>
+      <ul>
+        <li><a href="https://twitter.com/ayo_skip" target="_blank" class="social twitter">Twitter</a></li>
+        <li><a href="https://www.linkedin.com/in/sms30/" target="_blank" class="social linkedin">LinkedIn</a></li>
+        <li><a href="https://github.com/ayoskip" target="_blank" class="social github">Github</a></li>
+      </ul>
+      <p class="copyright">Copyright 2018, Stephon Skipper</p>
+    </footer>
+  </body>
+</html>
