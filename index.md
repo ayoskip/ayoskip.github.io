@@ -34,7 +34,7 @@ layout: default
         <h2 class="card-title">Background</h2>
         <p></p>
         <ul>
-          <li>I’m an aspiring web designer who loves everything about the web. I've lived in lots of different places and have worked in lots of different jobs.</li>
+          <li>I’m an aspiring web developer who loves everything about the web. I've lived in lots of different places and have worked in lots of different jobs.</li>
             <li>I’m excited to bring my life experience to the process of building fantastic looking websites.</li>
             <li>I’ve been a professional pizzaiolo and small business owner and am a life-long learner who's always interested in expanding my skills.</li>
           <!-- <li>To learn more,<a href="resume.html">view my resume.</a></li> -->
