@@ -14,8 +14,6 @@ layout: default
   <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet">
 </head>
   <header>
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506" alt="skiponamoon" class="profile-image">
-    <p class="tag location">My home is Columbia, Maryland.</p>
     <div class="main-nav">
         <ul class="nav">
           <li class="name">AYO Skip</li>
@@ -26,13 +24,13 @@ layout: default
         </ul>
     </div>
   </header>
-
+  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506" alt="skiponamoon" class="profile-image">
 
   <body>
     <main class="flex">
       <div class="card">
         <h2 class="card-title">Background</h2>
-        <p></p>
+        <p class="tag location">My home is Columbia, Maryland.</p>
         <ul>
           <li>I’m an aspiring web designer who loves everything about the web. I've lived in lots of different places and have worked in lots of different jobs.</li>
             <li>I’m excited to bring my life experience to the process of building fantastic looking websites.</li>
@@ -52,7 +50,7 @@ layout: default
           <li>Mobile Development</li>
           <li>Full Stack Apps</li>
         </ul>
-        <p>I’d like to work for a web design firm helping clients create an impressive online presence.</p>
+        <p>I’d like to work for a digital agency helping clients create an impressive online presence.</p>
       </div>
       <img src="rockpaper.png">
       <a href="https://ayoskip.github.io/Rocks.Papers.Scissors/">Link to Rock Paper Scissors</a>
