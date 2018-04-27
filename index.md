@@ -5,6 +5,8 @@
 layout: default
 ---
 
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -12,11 +14,11 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet">
+  <img
 </head>
   <header>
     <div class="main-nav">
         <ul class="nav">
-          <li class="name">AYO Skip</li>
           <li><a href="#">Home</a></li>
           <li><a href="resume.html" target="_blank">Experience</a></li>
           <li><a href="#">Photos</a></li>
@@ -24,7 +26,10 @@ layout: default
         </ul>
     </div>
   </header>
-  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506" alt="skiponamoon" class="profile-image">
+  <div align="center" >
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506" alt="skiponamoon" class="profile-image">
+
+  </div>
 
   <body>
     <main class="flex">
@@ -39,7 +44,7 @@ layout: default
         </ul>
       </div>
 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg" alt="Picture of Technology">
+        <img width="100%" height="20%"  src="http://www.eusebismo.org/wp-content/uploads/2016/03/matrix.jpg" alt="Picture of Technology">
     <div class="card">
         <h2 class="card-title">Goals</h2>
         <p> I want to master the process of building web sites and increase my knowledge, skills and abilities in:</p>
@@ -66,3 +71,4 @@ layout: default
     </footer>
   </body>
 </html>
+
