@@ -1,3 +1,40 @@
+* {
+     -moz-box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.alignright {
+	float: right;
+	padding: 0 0 10px 10px;
+}
+
+.alignleft {
+	float: left;
+	padding: 0 10px 10px 0;
+}
+
 body {
-    font-family: "Calibri";font-size: 24px;background-color: red;
+    font-family: "Calibri";
+    font-size: 24px;
+    background-color: orange;
+    font: red;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1446157/profile/profile-512.jpg?1504019506);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
